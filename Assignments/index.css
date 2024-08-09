@@ -1,0 +1,10 @@
+*{
+    margin:  0px;
+    padding: 0px;
+}
+
+#bgImg {
+    background-image: url(https://images.pexels.com/photos/3219483/pexels-photo-3219483.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-size: 1260px;
+}
